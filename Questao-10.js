@@ -6,6 +6,6 @@
 let numero = 1
 
 while (numero <= 10) {
-        console.log("numero: " + numero * 5);
+    console.log(numero + " * 5 = " + numero * 5)
     numero++;
 }
