@@ -4,5 +4,5 @@
 */
 
 for(let numero = 1; numero <= 10; numero++){
-    console.log("Valor de número = " + numero * 5)
+    console.log(numero + " * 5 = " + numero * 5)
 }
